@@ -1,6 +1,5 @@
 package kylefNonograms.model;
 
-// CLEARED
 public class Puzzle {
   private Clues pClues;
   private BoardImpl board;

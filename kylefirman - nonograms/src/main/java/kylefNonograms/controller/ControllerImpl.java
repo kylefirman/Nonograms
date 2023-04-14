@@ -6,7 +6,6 @@ import kylefNonograms.model.ModelImpl;
 
 import java.util.Random;
 
-// CLEARED
 public class ControllerImpl implements Controller {
   private Model pModel;
 

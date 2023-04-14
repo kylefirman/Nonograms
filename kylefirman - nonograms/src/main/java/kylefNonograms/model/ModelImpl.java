@@ -3,7 +3,6 @@ package kylefNonograms.model;
 import java.util.ArrayList;
 import java.util.List;
 
-// CLEARED
 public class ModelImpl implements Model {
   private List<Clues> pClues;
   private ArrayList<Puzzle> puzzleList;

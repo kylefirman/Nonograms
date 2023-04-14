@@ -11,7 +11,6 @@ import javafx.scene.Scene;
 
 public class AppLauncher extends Application {
 
-//CLEARED
   @Override
   public void start(Stage stage) {
       int width = 1080;

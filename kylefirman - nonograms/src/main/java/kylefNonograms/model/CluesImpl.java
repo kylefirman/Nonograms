@@ -1,6 +1,5 @@
 package kylefNonograms.model;
 
-//CLEARED
 public class CluesImpl implements Clues {
   private int width;
   private int height;
